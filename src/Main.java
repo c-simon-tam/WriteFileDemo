@@ -3,6 +3,9 @@ import java.util.Scanner;
 
 public class Main {
 
+    /* This program asks the user for a filename and then writes whatever the user types
+       until END is entered on a separate line */
+
     public static void main(String[] args) throws Exception {
 
         Scanner input = new Scanner(System.in);
